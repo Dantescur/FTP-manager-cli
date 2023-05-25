@@ -1,7 +1,8 @@
 ```markdown
 # FTP Manager CLI
 
-![FTP Manager CLI](https://github.com/Dantescur/FTP-manager-cli/blob/main/Screenshot_2023-05-25-07-31-09-252_com.termux.jpg)
+![Screenshot_2023-05-25-07-31-09-252_com termux](https://github.com/Dantescur/FTP-manager-cli/assets/130628231/696d5e9d-b8b3-4679-bc44-33cd2d1b1ad4)
+
 
 FTP Manager CLI is a command-line tool that allows you to manage your FTP servers easily. It provides a simple and intuitive interface to perform various FTP operations such as connecting to servers, navigating directories, uploading and downloading files, creating and removing directories, and more.
 
@@ -30,7 +31,7 @@ FTP Manager CLI is a command-line tool that allows you to manage your FTP server
 
    ````shell
    cd ftp-manager-cli
-   ```
+
    
 3. Install the required dependencies:
 
